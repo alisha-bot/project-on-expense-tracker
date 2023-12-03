@@ -75,9 +75,7 @@ Support attaching receipts or other relevant documents to expense entries.
 
 Clone the project
 
-```bash
-  git clone https://github.com/Priyanshu9898/Expense-Tracker-App
-```
+
 
 Go to the project directory
 
